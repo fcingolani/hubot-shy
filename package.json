@@ -1,0 +1,19 @@
+{
+  "name": "hubot-shy",
+  "version": "1.0.0",
+  "description": "A hubot script for shy users.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fcingolani/hubot-shy.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Federico Cingolani",
+  "license": "MIT"
+}
